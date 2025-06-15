@@ -97,3 +97,6 @@ Situations where storage or transmission of repeated data needs optimization.
 
 
 Overall, the program serves as a simple and effective demonstration of how RLE works using basic C programming constructs.)
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/416c4a5e-53c5-4479-885e-46a91efa00af)
